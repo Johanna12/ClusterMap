@@ -1,0 +1,291 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Hamilton Gardens, Hungerford Cres, Hamilton East",
+        "Image": "Hamilton Gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.305213,
+          -37.804953
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Mount Cook National Park, Aoraki, Canterbury",
+        "Image": "Mount Cook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.141767,
+          -43.593209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0080",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "Combined Sites": "Piha Beach, Piha, Auckland",
+        "Image": "Piha Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.46737,
+          -36.958114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Cape Reinga, Northland",
+        "Image": "Cape Reinga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.722132,
+          -34.448237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Lake Tekapo, Canterbury",
+        "Image": "Lake Tekapo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.477314,
+          -44.004308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Mitre Peak, Fiordland National Park, Milford Sound",
+        "Image": "Mitre Peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          167.838986,
+          -44.625799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Mount Sunday, Ashburton Lakes (Edoras (Lord of the Rings)\nHakatere Potts Rd, Ashburton Lakes)",
+        "Image": "Mount Sunday (Edoras)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          170.89323,
+          -43.548159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Rotorua Government Gardens, 9 Queens Dr, Rotorua",
+        "Image": "Rotorua Government Gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.256982,
+          -38.135053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Wai-O-Tapu Thermal Wonderland, Rotorua",
+        "Image": "Wai-O-Tapu Thermal Wonderland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.369019,
+          -38.357979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Te Puia, Rotorua Mud Pools",
+        "Image": "Te Puia Mud Pools"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.250536,
+          -38.163241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "246 Kerikeri Road, Kerikeri",
+        "Image": "Stonehouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.978154,
+          -35.220604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Statue of Victoria Queen, Albert Park, Albert Street, Auckland",
+        "Image": "Statue of Victoria Queen"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.768072,
+          -36.850088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Waitangi Treaty Grounds, Tau Henare Dr, Waitangi, ",
+        "Image": "Waitangi Treaty House"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.081838,
+          -35.266311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Pencarrow Lighthouse, Pencarrow Head, Wellington",
+        "Image": "Pencarrow Lighthouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.85001,
+          -41.358705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#f7062b",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "Combined Sites": "Ruapekapeka Pa, Timperley Rd, Towai",
+        "Image": "Ruapekapeka Pa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.143204,
+          -35.456187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Pompalier Mission, The Strand, On the Waterfront, Russell",
+        "Image": "Hahei Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.121975,
+          -35.264394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "One Tree Hill, Penrose, Auckland",
+        "Image": "One Tree Hill"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.7831302,
+          -36.900172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Cathedral Cove, Hahei Beach, Coromandel",
+        "Image": "Hahei Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.790597,
+          -36.828425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Turuturu Mokai fortified pa, Turuturu Road, Hawera",
+        "Image": "Turuturu Mokai fortified pa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.295187,
+          -39.565701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Kapiti Island, a bicultural whaling village",
+        "Image": "Kapiti Island, a bicultural whaling village"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.934644,
+          -40.853161
+        ]
+      }
+    }
+  ]
+}
