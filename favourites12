@@ -824,6 +824,325 @@
         172.194119,
           -41.145613
       ]
+    },
+	
+	{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed0bf2",
+        "marker-size": "medium",
+        "marker-symbol": "campsite",
+        "Combined Sites": "Hamilton Gardens, Hungerford Cres, Hamilton East",
+        "Image": "Hamilton Gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.101927,
+          -41.256016	
+        ]
+      },
+      "bbox": [
+       173.101927,
+          -41.256016,
+        173.101927,
+          -41.256016	
+      ]
+    },
+	
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Mount Cook National Park, Aoraki, Canterbury",
+        "Image": "Mount Cook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.577639,
+          -35.839136
+        ]
+      },
+      "bbox": [
+       174.577639,
+          -35.839136,
+        174.577639,
+          -35.839136
+      ]
+    },
+	
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e91444",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "Combined Sites": "Piha Beach, Piha, Auckland",
+        "Image": "Piha Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          173.014068,
+          -41.037412
+        ]
+      },
+      "bbox": [
+        173.014068,
+          -41.037412,
+        173.014068,
+          -41.037412
+      ]
+    },
+	
+	
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1510ed",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "Combined Sites": "Cape Reinga, Northland",
+        "Image": "Cape Reinga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.840915,
+          -39.729633
+        ]
+      },
+      "bbox": [
+       176.840915,
+          -39.729633,
+        176.840915,
+          -39.729633
+      ]
+    },
+	
+	
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Lake Tekapo, Canterbury",
+        "Image": "Lake Tekapo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.808715,
+          -36.856807
+        ]
+      },
+      "bbox": [
+       175.808715,
+          -36.856807,
+        175.808715,
+          -36.856807
+      ]
+    },
+	
+	
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Mitre Peak, Fiordland National Park, Milford Sound",
+        "Image": "Mitre Peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.8688,
+          -40.834398
+        ]
+      },
+      "bbox": [
+        172.8688,
+          -40.834398,
+        172.8688,
+          -40.834398
+      ]
+    },
+	
+	
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Mount Sunday, Ashburton Lakes (Edoras (Lord of the Rings)\nHakatere Potts Rd, Ashburton Lakes)",
+        "Image": "Mount Sunday (Edoras)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          174.859986,
+          -36.984808
+        ]
+      },
+      "bbox": [
+       174.859986,
+          -36.984808,
+        174.859986,
+          -36.984808
+      ]
+    },
+	
+	
+	{
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ed0bf2",
+        "marker-size": "medium",
+        "marker-symbol": "campsite",
+        "Combined Sites": "Hamilton Gardens, Hungerford Cres, Hamilton East",
+        "Image": "Hamilton Gardens"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.647896,
+          -45.025647	
+        ]
+      },
+      "bbox": [
+       168.647896,
+          -45.025647,
+        168.647896,
+          -45.025647
+      ]
+    },
+	
+	
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Mount Cook National Park, Aoraki, Canterbury",
+        "Image": "Mount Cook"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.838162,
+          -44.897354
+        ]
+      },
+      "bbox": [
+       168.838162,
+          -44.897354,
+        168.838162,
+          -44.897354
+      ]
+    },
+	
+	
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#e91444",
+        "marker-size": "medium",
+        "marker-symbol": "monument",
+        "Combined Sites": "Piha Beach, Piha, Auckland",
+        "Image": "Piha Beach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          175.616626,
+          -40.371806
+        ]
+      },
+      "bbox": [
+        175.616626,
+          -40.371806,
+        175.616626,
+          -40.371806
+      ]
+    },
+	
+	
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#1510ed",
+        "marker-size": "medium",
+        "marker-symbol": "building",
+        "Combined Sites": "Cape Reinga, Northland",
+        "Image": "Cape Reinga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.252826,
+          -38.13947
+        ]
+      },
+      "bbox": [
+       176.252826,
+          -38.13947,
+        176.252826,
+          -38.13947
+      ]
+    },
+	
+	
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Lake Tekapo, Canterbury",
+        "Image": "Lake Tekapo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          168.348999,
+          -44.84102
+        ]
+      },
+      "bbox": [
+       168.348999,
+          -44.84102,
+        168.348999,
+          -44.84102
+      ]
+    },	
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Mitre Peak, Fiordland National Park, Milford Sound",
+        "Image": "Mitre Peak"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          176.253694,
+          -38.134235
+        ]
+      },
+      "bbox": [
+        176.253694,
+          -38.134235,
+        176.253694,
+          -38.134235
+      ]
+    },	
+    {
+      "type": "Feature",
+      "properties": {
+        "Combined Sites": "Mount Sunday, Ashburton Lakes (Edoras (Lord of the Rings)\nHakatere Potts Rd, Ashburton Lakes)",
+        "Image": "Mount Sunday (Edoras)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          172.835007,
+          -34.445172
+        ]
+      },
+      "bbox": [
+        172.835007,
+          -34.445172,
+        172.835007,
+          -34.445172
+      ]
     }
   ]
 }
